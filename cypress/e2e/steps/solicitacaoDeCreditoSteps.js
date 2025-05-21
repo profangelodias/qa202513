@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 import { Given, When, Then, And } from "cypress-cucumber-preprocessor/steps";
 
 Given("eu acesso a página de solicitação de crédito", () => {
